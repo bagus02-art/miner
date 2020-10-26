@@ -7,7 +7,6 @@ wallet = 84BYqrdfiyCAFkSp5fpeGgKNkGSwju29rceFqNtBBaGJhpze1hfWDRRDeJVQfiPDxcHymjN
 pool1 = pool.minexmr.com:4444
 pool2 = fr.minexmr.com:4444
 pool3 = de.minexmr.com:4444
-pool4 = sg.minexmr.com:4444
 pool5 = ca.minexmr.com:4444
 pool6 = us-west.minexmr.com:4444
 sortPools = true
